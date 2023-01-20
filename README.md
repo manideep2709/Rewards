@@ -9,7 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Steps
 1. clone app
-2. Install dependencies (cd into-the-app && npm i) 
+2. Install dependencies (cd rewards && npm i) 
+3. To run the application(npm start) 
 
 ## Available Scripts
 
